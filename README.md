@@ -47,4 +47,5 @@ Copy-Item skills/<nombre> "$HOME\.config\opencode\skills\<nombre>" -Recurse
 ## Notas
 
 - Todos los archivos son UTF-8.
-- Los briefs de clientes son información sensible: este repo es privado, no lo hagas público.
+- Los briefs de clientes contienen datos reales (contactos, personas, ingresos): si este repo se
+  hace público, queda expuesto a cualquiera.
